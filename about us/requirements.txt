@@ -1,0 +1,6 @@
+Folgende Bibliotheken müssen vorinstalliert sein:
+numpy
+matplotlib
+PIL
+os
+re
